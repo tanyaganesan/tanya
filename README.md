@@ -1,4 +1,4 @@
-Contact Stress Distribution using Fast Fourier Transform:
+M_Tech_Project: Contact Stress Distribution using Fast Fourier Transform:
 
 A) BaseComplexNumber.java:
 
